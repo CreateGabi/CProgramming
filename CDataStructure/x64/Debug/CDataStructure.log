@@ -1,4 +1,0 @@
-﻿  phonebook05.cpp
-C:\projects\c_source\CDataStructure\CDataStructure\phonebook05.cpp(51,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\projects\c_source\CDataStructure\CDataStructure\phonebook05.cpp(58,20): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-  CDataStructure.vcxproj -> C:\projects\c_source\CDataStructure\x64\Debug\CDataStructure3.exe
